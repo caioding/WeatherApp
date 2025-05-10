@@ -37,3 +37,10 @@ Ready?
 **Go go go...**
 🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
+---
+
+## ✅Final Result
+
+App demo after improvements and bug fixes.
+
+<img src="final_result_weather_app.gif" alt="Final result" height="500">
