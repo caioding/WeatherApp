@@ -42,8 +42,10 @@ public class Repository {
         localizations.put("1", "-8.05428,-34.8813");
         localizations.put("2", "-9.39416,-40.5096");
         localizations.put("3", "-8.284547,-35.969863");
-        localizations.put("4", "-8.284547,-35.969863");
-        localizations.put("5", "-9.39416,-40.5096");
+        localizations.put("4", "-3.1019,-60.025");
+        localizations.put("5", "-23.5475,-46.6361");
+        localizations.put("6", "-25.504,-49.2908");
+        localizations.put("7","-22.9028,-43.2075");
         return localizations;
     }
 }

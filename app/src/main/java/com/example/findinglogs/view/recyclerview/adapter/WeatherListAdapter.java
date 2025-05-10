@@ -58,6 +58,12 @@ public class WeatherListAdapter extends RecyclerView.Adapter<WeatherListAdapter.
 
         public void holdWeather(Weather weather, Context context) {
             switch (weather.getWeather().get(0).getIcon()){
+                case "01d":
+                    cardView.setCardBackgroundColor(context.getColor(R.color.weather_clear_sky));
+                    break;
+                case "01n":
+                    cardView.setCardBackgroundColor(context.getColor(R.color.weather_clear_sky_dark));
+                    break;
                 case "02d":
                     cardView.setCardBackgroundColor(context.getColor(R.color.weather_few_clouds));
                     break;
